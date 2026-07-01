@@ -71,3 +71,24 @@ python3 soil_logger.py
 python3 site_entry.py
 
 Note: Update the API_KEY in site_entry.py before running.
+```
+---
+
+
+## 📊 Data Schema Reference
+The system outputs the following standardized JSON payload via MQTT:
+
+``` bash
+JSON
+{
+  "soil_moist": 45.2,
+  "soil_temp": 24.1,
+  "ph": 6.8,
+  "n": 120,
+  "p": 45,
+  "k": 90,
+  "air_temp": 26.5,
+  "air_humid": 60.2,
+  "lux": 1500
+}
+```
