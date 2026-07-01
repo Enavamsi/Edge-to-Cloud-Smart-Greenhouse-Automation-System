@@ -43,6 +43,7 @@ To ensure zero data loss and enable remote monitoring, a **Raspberry Pi Gateway*
 | **3-Channel Relay** | Controls Fan, Pump, and Lights | Digital Out (13, 14, 26) |
 
 ---
+![Uploading 2026_0425_14271500.jpg…]()
 
 ## 💻 Software Installation
 
@@ -68,3 +69,5 @@ python3 soil_logger.py
 
 # Run the cloud sync (in a separate terminal or as a service)
 python3 site_entry.py
+
+Note: Update the API_KEY in site_entry.py before running.
