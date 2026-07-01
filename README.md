@@ -1,0 +1,1 @@
+# Edge-to-Cloud-Smart-Greenhouse-Automation-System
