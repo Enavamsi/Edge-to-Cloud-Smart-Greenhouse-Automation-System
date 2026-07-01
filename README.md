@@ -43,7 +43,7 @@ To ensure zero data loss and enable remote monitoring, a **Raspberry Pi Gateway*
 | **3-Channel Relay** | Controls Fan, Pump, and Lights | Digital Out (13, 14, 26) |
 
 ---
-![Uploading 2026_0425_14271500.jpg…]()
+<img width="6000" height="3376" alt="2026_0425_14271500" src="https://github.com/user-attachments/assets/64b76c9e-761e-4f89-ba58-c80bd77c5a8d" />
 
 ## 💻 Software Installation
 
