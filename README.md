@@ -44,6 +44,7 @@ To ensure zero data loss and enable remote monitoring, a **Raspberry Pi Gateway*
 
 ---
 <img width="6000" height="3376" alt="2026_0425_14271500" src="https://github.com/user-attachments/assets/64b76c9e-761e-4f89-ba58-c80bd77c5a8d" />
+<img width="1069" height="701" alt="image" src="https://github.com/user-attachments/assets/ab7b9309-06f8-4f0a-be7c-6a4f488731ad" />
 
 ## 💻 Software Installation
 
