@@ -57,7 +57,7 @@ Ensure your Pi is running Mosquitto MQTT broker.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/smart-greenhouse-iot.git](https://github.com/YOUR_USERNAME/smart-greenhouse-iot.git)
+git clone https://github.com/Enavamsi/Edge-to-Cloud-Smart-Greenhouse-Automation-System.git
 cd smart-greenhouse-iot/gateway
 
 # Install dependencies
