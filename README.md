@@ -28,6 +28,7 @@ To ensure zero data loss and enable remote monitoring, a **Raspberry Pi Gateway*
 3. **Transport Layer (MQTT):** Publishes formatted JSON payloads over local Wi-Fi.
 4. **Gateway Layer (Raspberry Pi):** Subscribes to MQTT topics, saves to disk, and pushes to the web.
 5. **Application Layer (Hostinger):** Catches HTTP POST requests and stores them in a remote database.
+<img width="985" height="710" alt="image" src="https://github.com/user-attachments/assets/d2682622-f95e-4aa6-9b50-63be2a8e7f34" />
 
 ---
 
